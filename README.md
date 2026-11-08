@@ -288,8 +288,7 @@ SDA 是开漏共享的。主机在从机"正在吐一位数据"时复位，从�
 └── README.md
 ```
 
-> 规划中：`docs/design.md`（任务划分依据）、`docs/log.md`（逐日开发日志）、
-> `docs/img/`（波形截图）。
+> 待补：`docs/log.md`（逐日开发日志）、`docs/img/`（波形截图）。
 
 ---
 
